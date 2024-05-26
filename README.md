@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ... a project that incorporates my love for plant care, my artistic knowledge, and full-stack developement knowledge all in a single application 
+- 🔭 I’m currently working on ... everything. feel free to look around. 
 - 🌱 I’m currently learning ... swift (or a least trying to read through a thurough book on it). 
 - 👯 I’m looking to collaborate on ... projects, projects, projects! Shoot your shot, I might be open. 
 - 🤔 I’m looking for help with ... no particular help, just helpful, critical feedback is always appreciated. just don't be a meanie. 
