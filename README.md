@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on ... everything. Feel free to look around and explore! 🕵️‍♀️
-- 🌱 I’m currently learning ... Swift (or at least trying to read through a thorough book on it). 📚
+- 🌱 I’m currently learning ... React. 📚
 - 👯 I’m looking to collaborate on ... projects, projects, projects! Shoot your shot, I might be open. 🚀
 - 🤔 I’m looking for help with ... no particular help needed, just appreciate helpful, critical feedback. Just don't be a meanie. 🌟
 - 💬 Ask me about ... anything you'd like. I have a ton of lived experience and am an open book. 😊
